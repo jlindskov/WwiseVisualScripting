@@ -1,6 +1,8 @@
 # Wwise Visual Scripting
 Custom Units for Wwise and Unity Visual Scripting
 
+![VisualScripting](https://user-images.githubusercontent.com/42538362/172258323-58adc72a-25a0-48c9-a1e9-74a15ca80ea9.gif)
+
 # Prerequisites
 Unity 2021.2 LTS with Visual Scripting installed and Wwise 2021.1.7
 
