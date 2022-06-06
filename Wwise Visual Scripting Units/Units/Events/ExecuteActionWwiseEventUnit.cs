@@ -26,6 +26,7 @@ public class ExecuteActionWwiseEventUnit : Unit
     [DoNotSerialize] 
     public ValueInput actionType; 
     
+    [DoNotSerialize] 
     public ValueInput transitionTime; 
     
     [DoNotSerialize] 
